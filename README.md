@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://github.com/arsh-kodr/arsh-kodr/blob/main/assets/banner.svg" alt="Arsh Rai | MERN Developer" width="100%">
+  <img src="git.png" alt="Arsh Rai | MERN Developer" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Arsh Rai</h1>
